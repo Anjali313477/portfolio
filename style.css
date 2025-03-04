@@ -2,3 +2,15 @@
 .sub-heading{
     background-color: #f8f9fa;
 }
+
+.img-section div img{
+    height: 110px;
+}
+#education .container{
+    background: url(images/ast7.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: transparent;
+}
